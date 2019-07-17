@@ -84,7 +84,3 @@ To check that your handler is returning the correct information go to the url 'h
   "Response": "True"
 }
 ```
-
-```
-
-```
