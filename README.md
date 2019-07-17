@@ -1,6 +1,6 @@
 # Make a request from the server
 
-The server has been set up for you, so that the only place you need to write code is in the 'handleAPI' handler in `handler.js`. The api url is: `http://www.omdbapi.com/?s=star-wars&apikey=<APIKEY>`. Note: Insert your API key (created [here](http://www.omdbapi.com/apikey.aspx)) into the querystring!
+The server has been set up for you, so that the only place you need to write code is in the 'handleAPI' handler in `src/handler.js`. The api url is: `http://www.omdbapi.com/?s=star-wars&apikey=<APIKEY>`. Note: Insert your API key (created [here](http://www.omdbapi.com/apikey.aspx)) into the querystring!
 
 We do NOT want you to do anything with the data you get back from the api, i.e. you should not write any code on the front end.
 
